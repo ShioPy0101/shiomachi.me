@@ -58,8 +58,8 @@
 ## 登壇等
 
 ### KC3 2025
-* KC3（関西情報系学生団体交流会）主催
 * Webアプリ開発のためのプログラミング言語処理系入門！
+* https://kc3.me/study/3623/
 
 ### KITHUB(学内団体) ワークショップ「SQL × Pandas ワークショップ」
 * https://shiopy0101.github.io/sqlpandas-workshop/
@@ -74,8 +74,8 @@
 * https://tech.smarthr.jp/entry/2026/09/30/170000
  
 ### KC3 2026
-* KC3（関西情報系学生団体交流会）主催
 * Webアプリケーション開発のための「アカウント」入門
+* https://kc3.me/study/4261/
 
 ## メンター指導等
 
