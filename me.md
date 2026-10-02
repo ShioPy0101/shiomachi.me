@@ -93,6 +93,10 @@
 
 ## 個人開発
 
+### 自作パーサージェネレータ
+* LR Parserによる計算
+* https://github.com/Soft-Loop-Service/SoftLoopCompilerCompiler
+
 ### M5stack(ESP32)で動くスタックマシン方式言語の開発
 * フィボナッチ数列の計算はできる
 
