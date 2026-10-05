@@ -72,6 +72,7 @@
 
 ### KC3 2025 Webアプリ開発のためのプログラミング言語処理系入門！
 * https://kc3.me/study/3623/
+* https://github.com/ShioPy0101/lr-parser-lt/blob/main/%E6%A7%8B%E6%96%87%E8%A7%A3%E6%9E%90%E5%85%A5%E9%96%80%EF%BC%88%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%EF%BC%89.pdf
 
 ### KITHUB(学内団体) ワークショップ「SQL × Pandas ワークショップ」
 * https://shiopy0101.github.io/sqlpandas-workshop/
@@ -87,6 +88,7 @@
  
 ### KC3 2026 Webアプリケーション開発のための「アカウント」入門
 * https://kc3.me/study/4261/
+* https://github.com/ShioPy0101/speak-database-workshop/blob/main/%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80v2%20(3).pdf
 
 ## メンター指導等
 
