@@ -48,8 +48,6 @@
 
 ### ピクシブ株式会社
 2024.08.21 ~ 08.30 ピクシブ株式会社 SUMMER BOOT CAMP Webエンジニアリングコース
-* 公開用成果資料
-* https://github.com/ShioPy0101/lr-parser-lt/blob/main/2024%E5%A4%8F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%EF%BC%88shiomachi%E3%81%95%E3%82%93%EF%BC%89.pdf
 
 ### 株式会社トリドリ
 2024.10 ~ 2026.01 株式会社トリドリ開発部
