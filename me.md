@@ -115,5 +115,5 @@
      * https://github.com/ShioPy0101/mitsubachi-devkit
 
 * 現在付随して、Discord サーバーにbotを投げておくだけで素材整理ができるbotを開発しています。
-  * 既存の知識ベース（地理空間情報等）をD1に投げ込み、合わせてグラフ構造として関係を整理することで、高精度に固有名詞を音声認識（文字起こし）
+  * 頑張って基盤に紐付けるプロジェクトを進行しています。
   * Cloudflare Workers / Cloudflare D1を使用
