@@ -97,6 +97,8 @@
 ### 自作パーサージェネレータ
 * LR Parserによる計算
 * https://github.com/Soft-Loop-Service/SoftLoopCompilerCompiler
+* LR Parser関係の発表資料はこのリポジトリにまとめています
+ * https://github.com/ShioPy0101/lr-parser-lt
 
 ### M5stack(ESP32)で動くスタックマシン方式言語の開発
 * フィボナッチ数列の計算はできる
@@ -104,6 +106,8 @@
 ### メディアコンテンツ配信基盤
 * 映像コミュニティ向けの素材管理・進捗共有ストレージ
 * 所属する映像コミュニティでは、複数人が共同で映像制作を進めていましたが、その素材共有方法・手間が問題となっていました。そこで、自宅サーバーで動作するWebベースのファイルサーバーを開発し、ポートフォワーディングを行い外部ネットワークに公開、運用をしています。
+* オンボーディング資料
+  * https://github.com/ShioPy0101/mitsubachi-onboarding
 * リポジトリ
   * バックエンド
      * https://github.com/ShioPy0101/mitsubachi-ruby
