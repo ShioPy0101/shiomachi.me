@@ -88,6 +88,7 @@
 ### KITBUILD
 2026.06.02 ~ 2026.06.30 KITBUILD（大学内ハッカソン）メンター
 * 担当した参加者の方によるレポート記事
+    * 360度評価として見て頂けたら！
     * https://zenn.dev/kaho_s/articles/d9b34f8c325330
     * https://qiita.com/nasatana/items/f03401bbbe78695a90e7
 
