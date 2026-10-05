@@ -119,5 +119,6 @@
      * https://github.com/ShioPy0101/mitsubachi-devkit
 
 * 現在付随して、Discord サーバーにbotを置いておくだけで、素材整理ができるbotを開発しています。
-  * Gemini APIを埋め込んだDiscord botを用意し、自律的にファイルを分析して適切にストレージに紐づける仕組みを作っています。
+  * Gemini APIを埋め込んだDiscord botを用意し、Discordサーバー内でやり取りされる素材を、自律的に分析して適切にストレージに紐づける仕組みを作っています。
+  * 冬ぐらいには正式リリースしたい
   * Cloudflare Workers / Cloudflare D1を使用
