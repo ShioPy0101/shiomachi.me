@@ -27,9 +27,11 @@
 
 ### 未踏ジュニア
 2022年度 一般社団法人未踏 未踏ジュニアスーパークリエイター 
+* https://jr.mitou.org/projects/2022/motion_rapid
 
 ### SecHack365
 2023年度 国立研究開発法人情報通信研究機構 SecHack365 開発駆動コース川合ゼミ修了生
+* https://shiopy0101.github.io/SoftLoopWebsite/
 
 ## 資格
 
