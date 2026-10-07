@@ -39,6 +39,7 @@
 ### SecHack365
 2023年度 国立研究開発法人情報通信研究機構 SecHack365 開発駆動コース川合ゼミ修了生
 * https://shiopy0101.github.io/SoftLoopWebsite/
+* 表向きは教育システムですが、本題は言語処理系
 
 ## 資格
 
